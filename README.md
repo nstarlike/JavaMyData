@@ -1,1 +1,1 @@
-# MyDataPlatform
+# My Data Platform
