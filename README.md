@@ -10,3 +10,12 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 - Database 21c XE
 - Kafka 3.5.1
 - Vue.js 3.7.2
+- Maven 3.9.4
+
+## Projects
+- Frontend
+- Backend
+- Authorization
+- MockOtherOrg
+- MockCenter
+- MockAuthOrg
