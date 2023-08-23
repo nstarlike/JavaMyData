@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>MyDataSolution</name>
-	<description>My Data Solution</description>
+	<description>Solution for My Data System</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
