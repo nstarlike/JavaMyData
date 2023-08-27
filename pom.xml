@@ -53,5 +53,6 @@
 		<module>Frontend</module>
 		<module>Backend</module>
 		<module>Authorization</module>
+		<module>mock-other-org</module>
 	</modules>
 </project>
