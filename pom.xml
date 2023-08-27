@@ -51,5 +51,6 @@
 
 	<modules>
 		<module>Frontend</module>
+		<module>Backend</module>
 	</modules>
 </project>
