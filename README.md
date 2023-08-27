@@ -13,9 +13,15 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 - Maven 3.9.4
 
 ## Projects
-- Frontend: User Interface
-- Backend: Provider and Consumer API
-- Authorization: User or other organizations authenticate
-- MockOtherOrg: Mock organization for test
-- MockCenter: Mock My Data Center for test
-- MockCA: Mock Certificate Authorities for test
+- frontend
+  : User Interface
+- backend
+  : Provider and Consumer API
+- auth
+  : User or other organizations authenticate through this API
+- mock-other-org
+  : Mock organization for test
+- mock-center
+  : Mock My Data Center for test
+- mock-ca
+  : Mock Certificate Authorities for test
