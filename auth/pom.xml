@@ -5,7 +5,7 @@
     <artifactId>mydata</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Authorization</artifactId>
+  <artifactId>auth</artifactId>
   <name>Authorization</name>
   <description>Authentication and authorization service project</description>
 </project>
