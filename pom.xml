@@ -54,5 +54,6 @@
 		<module>backend</module>
 		<module>auth</module>
 		<module>mock-other-org</module>
+		<module>mock-center</module>
 	</modules>
 </project>
