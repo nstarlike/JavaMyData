@@ -9,8 +9,8 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 - SpringBoot 3.1.2
 - Oracle Database 21c XE
 - Kafka 3.5.1
-- Vue.js 3.7.2
-- Maven 3.9.4
+- Vue.js 3.2.13
+- Maven 3.8.7
 
 ## Projects
 - frontend
