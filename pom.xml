@@ -11,7 +11,7 @@
 	<groupId>nstarlike</groupId>
 	<artifactId>mydata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 	<name>MyDataSolution</name>
 	<description>Solution for My Data System</description>
 	<properties>
@@ -49,4 +49,7 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>Frontend</module>
+	</modules>
 </project>
