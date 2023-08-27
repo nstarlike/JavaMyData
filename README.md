@@ -14,14 +14,14 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 
 ## Projects
 - frontend
-  : User Interface
+  <br>: User Interface
 - backend
-  : Provider and Consumer API
+  <br>: Provider and Consumer API
 - auth
-  : User or other organizations authenticate through this API
+  <br>: User or other organizations authenticate through this API
 - mock-other-org
-  : Mock organization for test
+  <br>: Mock organization for test
 - mock-center
-  : Mock My Data Center for test
+  <br>: Mock My Data Center for test
 - mock-ca
-  : Mock Certificate Authorities for test
+  <br>: Mock Certificate Authorities for test
