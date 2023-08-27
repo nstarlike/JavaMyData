@@ -5,7 +5,7 @@
     <artifactId>mydata</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Backend</artifactId>
-  <name>Backend</name>
-  <description>Service project to serve mydata process</description>
+  <artifactId>frontend</artifactId>
+  <name>Frontend</name>
+  <description>User Interface project for users who use mydata</description>
 </project>
