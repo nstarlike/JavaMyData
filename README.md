@@ -15,13 +15,19 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 ## Projects
 - frontend
   <br>: User Interface
+  <br>: Vue.js Project
 - backend
-  <br>: Provider and Consumer API
+  <br>: Provider and Consumer API Module Project
+  <br>: Maven Module Project
 - auth
   <br>: User or other organizations authenticate through this API
+  <br>: Maven Module Project
 - mock-other-org
   <br>: Mock organization for test
+  <br>: Separate Maven Project
 - mock-center
   <br>: Mock My Data Center for test
+  <br>: Separate Maven Project
 - mock-ca
   <br>: Mock Certificate Authorities for test
+  <br>: Separate Maven Project
