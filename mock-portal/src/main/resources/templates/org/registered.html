@@ -5,43 +5,49 @@
 <title>Registration Result</title>
 </head>
 <body>
-<h1>Registration Result</h1>
+<div>
+	<div th:insert="layout/layout::org-registered-header"></div>
 
-<table>
-<tbody>
-	<tr>
-		<th>기관타입</th>
-		<td th:text="${org.orgType}"></td>
-	</tr>
-	<tr>
-		<th>업권</th>
-		<td th:text="${org.orgClass}"></td>
-	</tr>
-	<tr>
-		<th>기관코드</th>
-		<td th:text="${org.orgCode}"></td>
-	</tr>
-	<tr>
-		<th>기관명</th>
-		<td th:text="${org.orgName}"></td>
-	</tr>
-	<tr>
-		<th>사업자등록번호</th>
-		<td th:text="${org.busiNum}"></td>
-	</tr>
-	<tr>
-		<th>전화번호</th>
-		<td th:text="${org.tel}"></td>
-	</tr>
-	<tr>
-		<th>주소</th>
-		<td th:text="${org.addr}"></td>
-	</tr>
-	<tr>
-		<th>대표자</th>
-		<td th:text="${org.representative}"></td>
-	</tr>
-</tbody>
-</table>
+	<section>
+		<table>
+		<tbody>
+			<tr>
+				<th>기관타입</th>
+				<td th:text="${org.orgType}"></td>
+			</tr>
+			<tr>
+				<th>업권</th>
+				<td th:text="${org.orgClass}"></td>
+			</tr>
+			<tr>
+				<th>기관코드</th>
+				<td th:text="${org.orgCode}"></td>
+			</tr>
+			<tr>
+				<th>기관명</th>
+				<td th:text="${org.orgName}"></td>
+			</tr>
+			<tr>
+				<th>사업자등록번호</th>
+				<td th:text="${org.busiNum}"></td>
+			</tr>
+			<tr>
+				<th>전화번호</th>
+				<td th:text="${org.tel}"></td>
+			</tr>
+			<tr>
+				<th>주소</th>
+				<td th:text="${org.addr}"></td>
+			</tr>
+			<tr>
+				<th>대표자</th>
+				<td th:text="${org.representative}"></td>
+			</tr>
+		</tbody>
+		</table>
+	</section>
+	
+	<div th:insert="layout/layout::footer"></div>
+</div>
 </body>
 </html>
