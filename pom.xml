@@ -52,5 +52,6 @@
 	<modules>
 		<module>backend</module>
 		<module>auth</module>
+		<module>batch</module>
 	</modules>
 </project>
