@@ -22,6 +22,9 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 - auth
     - User or other organizations authenticate through this API
     - Maven Module Project
+- batch
+    - Batch project to fetch MyData from other organizations regularily
+    - Maven Module Project
 - mock-other-org
     - Mock organization for test
     - Separate Maven Project
