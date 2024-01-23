@@ -19,7 +19,7 @@ public class OrganizationController {
 
 	@GetMapping("/register")
 	public String register() {
-		return "org/register";
+		return "/org/register";
 	}
 
 	@PostMapping("/registerProc")
@@ -50,6 +50,6 @@ public class OrganizationController {
 	public String login(@RequestParam Long id, Model model) {
 		Organization org = orgRepository.findById(id).orElseThrow();
 		model.addAttribute("org", org);
-		return "org/registered";
+		return "/org/registered";
 	}
 }
