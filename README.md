@@ -28,8 +28,8 @@ My Data Center <https://www.mydatacenter.or.kr:3441/>
 - mock-other-org
     - Mock organization for test
     - Separate Maven Project
-- mock-center
-    - Mock My Data Center for test
+- mock-portal
+    - Mock My Data Portal for test
     - Separate Maven Project
 - mock-ca
     - Mock Certificate Authorities for test
