@@ -1,8 +1,8 @@
-# My Data Solution
-My Data solution provides customers financial servies with personal credit information collected from other finantial companies or public organizations. 
+# MyData Solution
+MyData solution provides customers financial servies with personal credit information collected from other finantial companies or public organizations. 
 
 ## References
-My Data Center <https://www.mydatacenter.or.kr:3441/>
+MyData Center <https://www.mydatacenter.or.kr:3441/>
 
 ## Techonolgies
 - JDK 20.0.2
